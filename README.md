@@ -1,5 +1,5 @@
 ![Logo](https://github.com/Dark-Angel1020/Dark-Angel1020/assets/84275267/e17b68cc-a6a0-462f-8455-b2e23171492e)
-<h1 align="center">Hi 👋, I'm Deepak George</h1>https://github.com/Dark-Angel1020/Dark-Angel1020/blob/main/README.md
+<h1 align="center">Hi 👋, I'm Deepak George</h1>
 <h3 align="center">A passionate B.Tech CSE student with a specialization in CPS.</h3>
 <br>
 <img src="https://github.com/Dark-Angel1020/Dark-Angel1020/assets/84275267/a2db990e-9ff1-4064-8204-c1e3b143b4fa" align="right" width="400">
