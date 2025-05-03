@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **Neural Networks, Frameworks, and more**  
-- 💬 Ask me about **Linux, and Security**  
+- 💬 Ask me about **Linux and Security**  
 - 📫 Reach me at **deepakgeorge1020@gmail.com**  
-
+- 🖥️ Run `npx itsdeepak` in your terminal — **Let's Connect & Collaborate!** ⚡
 ---
 
 ## 🌐 Connect with Me  
